@@ -7,7 +7,7 @@
 - 🤖 I'm a **Mechatronics and Robotics Engineer** with a deep interest in designing innovative and intelligent systems. My expertise spans across **Electronics**, **Control Systems**, **Embedded Systems**, **Python**, **C/C++**, **MATLAB**, **PCB Design**, **Microcontrollers (e.g., Arduino, STM32)**, and **Robotics Simulation (ROS, Gazebo)**, among other technologies.
 
 
-- 🔭 Currently, I'm working at  [Dubai Future Foundation and Dubai Center of AI](https://dubaifuture.ae) as a EIR and PgM, where I Support Dubai Future Accelerators and Dubai Center of AI Attracting the global talent and Make Dubai the Destination for AI Companies across the Globe.
+- 🔭 Currently, I'm working at  [Dubai Future Foundation and Dubai Center of AI](https://dubaifuture.ae) as EIR and PgM, where I Support Dubai Future Accelerators and Dubai Center of AI Attracting the global talent and Make Dubai the Destination for AI Companies across the Globe.
 
 - 🌱 I'm constantly learning and expanding my skillset in Software and Hardware Development, AI and Community development.
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [sobhy.me/contact](sobhy.me/contact)
 
-- 📄 If you want to know more about my experience, you can check out my [resume](https://sobhydo.notion.site/)
+- 📄 If you want to know more about my experience, you can check out my [resume](https://sobhy.me/resume)
 
 
 <h3 align="left">Connect with me:</h3>
